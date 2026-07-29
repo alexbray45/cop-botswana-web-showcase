@@ -242,7 +242,15 @@ Member & Leaders Portal
 Database
 ```
 
-This evolution will enable richer user experiences while maintaining the same architectural principles established during the initial development.
+The current frontend architecture serves as the foundation for a larger digital platform.
+
+Rather than adopting a complex application architecture from the outset, the project follows an incremental evolution strategy.
+
+The initial implementation prioritises rapid delivery, accessibility, and maintainability using HTML5, CSS3, and JavaScript.
+
+As functional requirements expand and dynamic features become central to the platform, the frontend will transition to a React.js component-based architecture supported by backend services and content management capabilities.
+
+This evolution enables the platform to grow naturally while preserving existing functionality and minimising redevelopment.
 
 ---
 
