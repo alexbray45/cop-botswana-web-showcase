@@ -187,7 +187,13 @@ Future versions will introduce APIs, content management capabilities, and dynami
 | Version Control       | Git & GitHub    |
 | Documentation         | Markdown        |
 
-📄 **Further Reading:** [Technology Stack](docs/technology-stack.md)
+The current version of the platform is intentionally built using **HTML5**, **CSS3**, and **Vanilla JavaScript** to deliver a fast, lightweight, and maintainable website while establishing the Church of Pentecost Botswana's official digital presence.
+
+This approach enables members and visitors to access important church information early, while allowing the project team to validate the site's structure, gather feedback, and continuously improve the platform.
+
+As the website matures and all planned pages and features are completed, the frontend is planned to gradually migrate to **React.js**. This transition will introduce a component-based architecture that improves scalability, code reusability, maintainability, and supports future capabilities such as dynamic content, API integrations, authentication, and member-focused digital services.
+
+Further details on this technology strategy are available in the 📄[Technology Stack Documentation](docs/technology-stack.md).
 
 ---
 
@@ -311,19 +317,19 @@ The website is being developed incrementally, with each release expanding its ca
 
 ```text
 Version 1
-Modern Responsive Website
+Responsive Website (HTML • CSS • JavaScript)
         │
         ▼
 Version 2
-Dynamic Content Platform
+Dynamic Content & API Integrations
         │
         ▼
 Version 3
-API & Multi-language Support
+React.js Migration
         │
         ▼
 Version 4
-Member Services
+CMS & Member Services
         │
         ▼
 Future
