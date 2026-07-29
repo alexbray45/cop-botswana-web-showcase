@@ -202,14 +202,57 @@ Current interface includes:
 - About Preview
 - Leadership Preview
 - Ministries Preview
-- Sermons Preview
 - Events Preview
 - Gallery Preview
 - Devotions Preview
 - Contact Call-to-Action
 - Footer
 
-Representative screenshots will be added as development progresses.
+<p align="center">
+  <img src="./assets/screenshots/homepage.png"
+       alt="Homepage"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/about-us.png"
+       alt="About Us"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/church-stats.png"
+       alt="Church Stats"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/leaders.png"
+       alt="Leaders"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/ministries.png"
+       alt="Ministries"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/devotion.png"
+       alt="Devotion"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/events.png"
+       alt="Events"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/gallery.png"
+       alt="Gallery"
+       width="900">
+</p>
+<p align="center">
+  <img src="./assets/screenshots/footer.png"
+       alt="Call-to-action"
+       width="900">
+</p>
 
 ---
 
