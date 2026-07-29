@@ -16,17 +16,34 @@ Designing a scalable, accessible, and engaging digital platform for **The Church
 
 ![Status](https://img.shields.io/badge/Status-Active%20Development-success)
 
-![Current%20Focus](https://img.shields.io/badge/Current%20Focus-Dynamic%20Content-orange)
+![Project](https://img.shields.io/badge/Project-Digital%20Platform-0A63B9)
+
+![Current Focus](https://img.shields.io/badge/Current%20Focus-Dynamic%20Content%20%7C%20Bible%20API-orange)
 
 ![Frontend](https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript-orange)
 
-![Responsive](https://img.shields.io/badge/Responsive-Yes-2ECC71)
+![Future](https://img.shields.io/badge/Future-React.js%20Migration-61DAFB)
 
-![Documentation](https://img.shields.io/badge/Documentation-Complete-orange)
+![Documentation](https://img.shields.io/badge/Documentation-Engineering%20Case%20Study-success)
 
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey)
 
 </p>
+
+# 🔒 Repository Status
+
+The implementation source code for the production website is intentionally maintained in a private repository.
+
+This public repository serves as a software engineering case study documenting the planning, design decisions, architecture, and evolution of the project.
+
+Documentation included in this repository covers:
+
+- System Architecture
+- Technology Stack
+- UI/UX Design
+- Engineering Process
+- Lessons Learned
+- Project Roadmap
 
 ---
 
@@ -377,26 +394,6 @@ Future platform enhancements include:
 | Full Performance Optimisation     | ⏳ Planned     |
 | Full SEO Optimisation             | ⏳ Planned     |
 | Full Responsive Optimisation      | ⏳ Planned     |
-
----
-
-# 🔒 Repository Status
-
-The implementation source code for the production website is intentionally maintained in a private repository.
-
-This public repository serves as a software engineering case study documenting the planning, design decisions, architecture, and evolution of the project.
-
-Documentation included in this repository covers:
-
-- Business Analysis
-- Requirements Engineering
-- Information Architecture
-- System Architecture
-- Technology Stack
-- UI/UX Design
-- Engineering Process
-- Lessons Learned
-- Project Roadmap
 
 ---
 
